@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am seeking for job opportunities in New York City. 
+I am seeking job opportunities in New York City. 
 
 
 ## 🌐 Socials:
