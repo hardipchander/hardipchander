@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently trying to master the MERN stack so I can build great web applications.<br>In the future, I hope to learn more about AI and Typescript.  <br>I am seeking for job opportunities in New York City. 
+I am seeking for job opportunities in New York City. 
 
 
 ## 🌐 Socials:
